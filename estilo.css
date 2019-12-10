@@ -1,0 +1,33 @@
+body {
+    background-color: #f1f2f4;
+    margin: 2%;
+}
+
+h1 {
+    color: #161a1d;
+}
+
+h2 {
+    color: #374048;
+}
+
+p {
+    color: #4e5965;
+}
+
+a {
+    color: #374048;
+}
+
+ul, ol {
+    color: #4e5965;
+}
+
+blockquote {
+    margin: auto;
+    width: 50%;
+    border-radius: 25px;
+    background-color: #FFFFFF;
+    color: #f1f2f4;
+    padding: 2%;
+}
