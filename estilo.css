@@ -59,7 +59,7 @@ ul, ol {
 }
 
 li {
-    margin: 1.5%;
+    margin: 1.6%;
 }
 
 blockquote {
@@ -67,12 +67,15 @@ blockquote {
     width: 80%;
     border-radius: 25px;
     background-color: #FFFFFF;
-    padding: 1% 2%;    
+    padding: 0.5% 2%;    
     color: #708090;
     font-size: 1.25em;
     font-style: italic;
     line-height: 1.8;
 }
 
+span {
+    font-style: italic;
+}
 
 
